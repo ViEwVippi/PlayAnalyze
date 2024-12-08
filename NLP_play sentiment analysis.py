@@ -15,10 +15,6 @@ api_key = st.sidebar.text_input("OpenAI API Key", type="password")
 st.title("Play's Sentiment Analysis")
 st.markdown(
     """<p>
-    <strong>NLP Application for Sentiment Analysis on Plays</strong><br>
-    This application using the ChatGPT 3.5 Turbo model.<\n>
-    This program is designed to assist actors or directors in interpreting the emotional roles of characters in various scenes of a play and recording the statistics in a table <\n>
-    <p>
     <strong>NLP Application for Sentiment Analysis on Plays.</strong><br>
     This application using the ChatGPT 3.5 Turbo model and is designed to assist actors or directors in interpreting the emotional roles of characters in various scenes of a play and recording the statistics in a table, which contains Dialogue Analyze and Emotion statistics tables for the results.
     </p>
