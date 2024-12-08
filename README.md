@@ -12,6 +12,6 @@ NLP Application for Sentiment Analysis on Plays. This program is designed to ass
 
 #streamlit run NLP_play sentiment analysis.py#
 
-# Testing (2 File)
+# Testing (2 Files)
 - Pdftest.pdf
 - txttest.txt 
