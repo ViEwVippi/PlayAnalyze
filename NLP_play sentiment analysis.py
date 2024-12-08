@@ -16,7 +16,15 @@ st.title("Play's Sentiment Analysis")
 st.markdown(
     """<p>
     <strong>NLP Application for Sentiment Analysis on Plays</strong><br>
-    This application helps analyze the sentiments in plays using the ChatGPT 3.5 Turbo model.
+    This application using the ChatGPT 3.5 Turbo model.<\n>
+    This program is designed to assist actors or directors in interpreting the emotional roles of characters in various scenes of a play and recording the statistics in a table <\n>
+    , which contains Dialogue Analyze and Emotion statistics tables for the reasults.<\n>
+    &nbsp;&nbsp;&nbsp;&nbsp;- The scritpt shouldn't take long more than 5 minutes/play (normaly between 2 - 3 pages) which can help you to understand each beat(bit) in acting.<\n>
+    &nbsp;&nbsp;&nbsp;&nbsp;- If the file of the play is too large, it can occur error. Please split the file.<\n>
+    &nbsp;&nbsp;&nbsp;&nbsp;- You may upload your play in PDF, or TXT format. (PDF must be 'text' pdf file)<\n>
+    &nbsp;&nbsp;&nbsp;&nbsp;- Error can rarely occur. (due to Api and network problem) Please try again.<\n>
+    &nbsp;&nbsp;&nbsp;&nbsp;- You may specify a context to help ChatGPT's analyzing better (e.g., a specific event, a specify characteristic).<\n>
+    &nbsp;&nbsp;&nbsp;&nbsp;- You may download the result in an Excel file after it has been analyzed.<\n>
     </p>""",
     unsafe_allow_html=True,
 )
