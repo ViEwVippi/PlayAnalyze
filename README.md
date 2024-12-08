@@ -10,7 +10,7 @@ NLP Application for Sentiment Analysis on Plays. This program is designed to ass
 - openai
 - PyPDF2
 
-#streamlit run NLP_play sentiment analysis.py.py#
+#streamlit run NLP_play sentiment analysis.py#
 
 # Testing (2 File)
 - Pdftest.pdf
