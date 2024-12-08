@@ -7,11 +7,11 @@ NLP Application for Sentiment Analysis on Plays. This program is designed to ass
   - You may download the result in an Excel file after it has been analyzed.
 
 # requirements.txt
-openai
-PyPDF2
+- openai
+- PyPDF2
 
 #streamlit run NLP_play sentiment analysis.py.py#
 
-# Testing File
-Pdftest.pdf
-txttest.txt 
+# Testing (2 File)
+- Pdftest.pdf
+- txttest.txt 
