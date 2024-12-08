@@ -11,3 +11,7 @@ openai
 PyPDF2
 
 #streamlit run NLP_play sentiment analysis.py.py#
+
+# Testing File
+Pdftest.pdf
+txttest.txt 
