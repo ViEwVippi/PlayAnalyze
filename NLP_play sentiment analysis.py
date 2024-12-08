@@ -18,13 +18,18 @@ st.markdown(
     <strong>NLP Application for Sentiment Analysis on Plays</strong><br>
     This application using the ChatGPT 3.5 Turbo model.<\n>
     This program is designed to assist actors or directors in interpreting the emotional roles of characters in various scenes of a play and recording the statistics in a table <\n>
-    , which contains Dialogue Analyze and Emotion statistics tables for the reasults.<\n>
-    &nbsp;&nbsp;&nbsp;&nbsp;- The scritpt shouldn't take long more than 5 minutes/play (normaly between 2 - 3 pages) which can help you to understand each beat(bit) in acting.<\n>
-    &nbsp;&nbsp;&nbsp;&nbsp;- If the file of the play is too large, it can occur error. Please split the file.<\n>
-    &nbsp;&nbsp;&nbsp;&nbsp;- You may upload your play in PDF, or TXT format. (PDF must be 'text' pdf file)<\n>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Error can rarely occur. (due to Api and network problem) Please try again.<\n>
-    &nbsp;&nbsp;&nbsp;&nbsp;- You may specify a context to help ChatGPT's analyzing better (e.g., a specific event, a specify characteristic).<\n>
-    &nbsp;&nbsp;&nbsp;&nbsp;- You may download the result in an Excel file after it has been analyzed.<\n>
+    <p>
+    <strong>NLP Application for Sentiment Analysis on Plays.</strong><br>
+    This application using the ChatGPT 3.5 Turbo model and is designed to assist actors or directors in interpreting the emotional roles of characters in various scenes of a play and recording the statistics in a table, which contains Dialogue Analyze and Emotion statistics tables for the results.
+    </p>
+    <ul>
+        <li>The script shouldn't take long more than 5 minutes/play (normally between 2 - 3 pages) which can help you to understand each beat (bit) in acting.</li>
+        <li>If the file of the play is too large, it can occur error. Please split the file.</li>
+        <li>You may upload your play in PDF, or TXT format. (PDF must be 'text' PDF file)</li>
+        <li>Error can rarely occur. (due to API and network problem) Please try again.</li>
+        <li>You may specify a context to help ChatGPT's analyzing better (e.g., a specific event, a specific characteristic).</li>
+        <li>You may download the result in an Excel file after it has been analyzed.</li>
+    </ul>
     </p>""",
     unsafe_allow_html=True,
 )
